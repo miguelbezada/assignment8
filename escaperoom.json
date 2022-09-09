@@ -9,7 +9,11 @@
     "nav": "Press 1 to gome to bathroom , Press 2 to go to bedroom and Press 3 to go to kitchen",
     "die": 0,
     "win": 0,
-    "stranger": 0
+    "stranger": 0,
+    "bat": 1,
+    "fairy": 1,
+    "item": 1,
+    "weather": 0
   },
   {
     "|": 2,
@@ -21,7 +25,11 @@
     "nav": "Press 1 you go to home , Press 2 to go to bedroom and Press 3 to go to readingroom",
     "die": 0,
     "win": 0,
-    "stranger": 0
+    "stranger": 0,
+    "bat": 1,
+    "fairy": 0,
+    "item": 0,
+    "weather": 0
   },
   {
     "|": 3,
@@ -33,7 +41,11 @@
     "nav": "Press 1 to go to reading room, Press 2 to go to porch, and press 3 to go to the suite",
     "die": 0,
     "win": 0,
-    "stranger": 0
+    "stranger": 0,
+    "bat": 0,
+    "fairy": 0,
+    "item": 1,
+    "weather": 1
   },
   {
     "|": 4,
@@ -45,7 +57,11 @@
     "nav": "",
     "die": 0,
     "win": 1,
-    "stranger": 0
+    "stranger": 0,
+    "bat": 1,
+    "fairy": 1,
+    "item": 1,
+    "weather": 1
   },
   {
     "|": 5,
@@ -57,7 +73,11 @@
     "nav": "Press 1 to go to the garden, Press 2 to go to the closet, and Press 3 to go to the staircase",
     "die": 0,
     "win": 0,
-    "stranger": 0
+    "stranger": 0,
+    "bat": 1,
+    "fairy": 1,
+    "item": 1,
+    "weather": 0
   },
   {
     "|": 6,
@@ -69,7 +89,11 @@
     "nav": "Press 1 to go to the living room, Press 2 to go to the dining room, and Press 3 to go to the swimming pool",
     "die": 0,
     "win": 0,
-    "stranger": 1
+    "stranger": 1,
+    "bat": 0,
+    "fairy": 0,
+    "item": 0,
+    "weather": 1
   },
   {
     "|": 7,
@@ -81,7 +105,11 @@
     "nav": "Press 1 to go to the porch, Press 2 to go to the storage, and Press 3 to go to the staircase",
     "die": 0,
     "win": 0,
-    "stranger": 0
+    "stranger": 0,
+    "bat": 0,
+    "fairy": 0,
+    "item": 0,
+    "weather": 1
   },
   {
     "|": 8,
@@ -93,7 +121,11 @@
     "nav": "Press 1 to go to the garage, Press 2 to go to the garden, and Press 3 to go to the closet",
     "die": 0,
     "win": 0,
-    "stranger": 0
+    "stranger": 0,
+    "bat": 1,
+    "fairy": 0,
+    "item": 0,
+    "weather": 1
   },
   {
     "|": 9,
@@ -105,7 +137,11 @@
     "nav": "Press 1 to go to laundry room, 2 to suite and 3 to attic",
     "die": 0,
     "win": 0,
-    "stranger": 1
+    "stranger": 1,
+    "bat": 0,
+    "fairy": 0,
+    "item": 1,
+    "weather": 0
   },
   {
     "|": 10,
@@ -117,7 +153,11 @@
     "nav": "",
     "die": 1,
     "win": 0,
-    "stranger": 0
+    "stranger": 0,
+    "bat": 0,
+    "fairy": 0,
+    "item": 1,
+    "weather": 1
   },
   {
     "|": 11,
@@ -129,7 +169,11 @@
     "nav": "Press 1 to go to the family room, Press 2 to go to the rooftop, and Press 3 to go to the bedroom",
     "die": 0,
     "win": 0,
-    "stranger": 0
+    "stranger": 0,
+    "bat": 0,
+    "fairy": 1,
+    "item": 1,
+    "weather": 0
   },
   {
     "|": 12,
@@ -141,7 +185,11 @@
     "nav": "Press 1 to go to the attic, Press 2 to go to the swimming pool, and Press 3 to go home",
     "die": 0,
     "win": 0,
-    "stranger": 0
+    "stranger": 0,
+    "bat": 1,
+    "fairy": 0,
+    "item": 1,
+    "weather": 1
   },
   {
     "|": 13,
@@ -153,7 +201,11 @@
     "nav": "Press 1 to go to kitchen, Press 2 to go to basement, and press 3 to go to the suite",
     "die": 0,
     "win": 0,
-    "stranger": 0
+    "stranger": 0,
+    "bat": 1,
+    "fairy": 1,
+    "item": 1,
+    "weather": 1
   },
   {
     "|": 14,
@@ -165,7 +217,11 @@
     "nav": "",
     "die": 0,
     "win": 0,
-    "stranger": 0
+    "stranger": 0,
+    "bat": 0,
+    "fairy": 1,
+    "item": 0,
+    "weather": 0
   },
   {
     "|": 15,
@@ -177,7 +233,11 @@
     "nav": "Press 1 to go to the bathroom, Press 2 to go to the porch, and Press 3 to go to the garden.",
     "die": 0,
     "win": 0,
-    "stranger": 0
+    "stranger": 0,
+    "bat": 1,
+    "fairy": 1,
+    "item": 1,
+    "weather": 0
   },
   {
     "|": 16,
@@ -189,7 +249,11 @@
     "nav": "Press 1 to go to home",
     "die": 0,
     "win": 0,
-    "stranger": 0
+    "stranger": 0,
+    "bat": 0,
+    "fairy": 1,
+    "item": 1,
+    "weather": 0
   },
   {
     "|": 17,
@@ -201,7 +265,11 @@
     "nav": "Press 1 to go to Rooftop, Press 2 to go to kitchen, and press 3 to go to the garage",
     "die": 0,
     "win": 0,
-    "stranger": 1
+    "stranger": 1,
+    "bat": 1,
+    "fairy": 0,
+    "item": 1,
+    "weather": 0
   },
   {
     "|": 18,
@@ -213,7 +281,11 @@
     "nav": "Press 1 to go to basement, Press 2 to go to staircase, and press 3 to go to the garage",
     "die": 0,
     "win": 0,
-    "stranger": 0
+    "stranger": 0,
+    "bat": 0,
+    "fairy": 0,
+    "item": 0,
+    "weather": 1
   },
   {
     "|": 19,
@@ -225,7 +297,11 @@
     "nav": "Press 1 to go to the storage, Press 2 to go to the garage, and Press 3 to go to the garden",
     "die": 0,
     "win": 0,
-    "stranger": 0
+    "stranger": 0,
+    "bat": 1,
+    "fairy": 1,
+    "item": 1,
+    "weather": 1
   },
   {
     "|": 20,
@@ -235,8 +311,12 @@
     "c3": "",
     "story": "You are at the rooftop .You want to unwind with you family",
     "nav": "Press 1 to go to the staircase",
-    "die": "",
-    "win": "",
-    "stranger": ""
+    "die": 0,
+    "win": 0,
+    "stranger": 0,
+    "bat": 0,
+    "fairy": 1,
+    "item": 1,
+    "weather": 0
   }
 ]
